@@ -1,7 +1,5 @@
 # Bike Sharing Assignment
-> To create a Linear Regression Model that explains the demand of the bike sharing, for a bike sharing business BoomBikes. The business wants to know 2 things:
-    > - 
-    > - How well those variables describe the bike demands
+> To create a Linear Regression Model that explains the demand of the bike sharing market
 
 
 ## Table of Contents
